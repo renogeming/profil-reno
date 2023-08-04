@@ -1,17 +1,17 @@
-#table{
+#tabel{
     font-family: 'Poppins', sans-serif;
     border-collapse: collapse;
     width:90%;
 }
 
-#table td, #tabel th{
+#tabel td, #tabel th{
     border: 2px solid #ff6969;
     padding: 9px;
 }
 
-#table tr:nth-child(even){background-color: #fb0e0e;}
+#tabel tr:nth-child(even){background-color: #fb0e0e;}
 
-#table tr:hover {background-color: #ff6969;}
+#tabel tr:hover {background-color: #ff6969;}
 
 #tabel th{
     padding-top: 12px;
